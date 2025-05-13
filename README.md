@@ -10,8 +10,6 @@ The project includes a detailed academic report prepared by the team, highlighti
 
 ## 📄 Final Report
 
-The complete academic report is available in the `report/` directory. It includes:
-
 - A structured analysis of cyber threats based on CPU/disk/network behavior
 - Phishing detection using URL features and user interaction metrics
 - A real-world Instagram dataset collected over two months to study social engineering
